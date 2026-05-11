@@ -21,7 +21,7 @@ This project predicts household energy consumption using Artificial Intelligence
 
 ## ▶️ How to Run
 
-1. Clone repo:git clone https://github.com/AseemTapase123/Ai-powered-energy-consumption-forecasting.git
+1. Clone repo:git clone [https://mubashsherakhan.github.io/AI---Powered-Energy-Consumption-Forecasting-System/]
 
 
 2. Install dependencies:
