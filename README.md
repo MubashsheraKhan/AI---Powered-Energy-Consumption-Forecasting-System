@@ -48,4 +48,4 @@ Upload CSV with columns:
 ![App Screenshot](screenshot.png)
 
 ## 👨‍💻 Author
-Aseem Tapase
+Mubashshera Khan
